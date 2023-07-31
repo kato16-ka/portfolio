@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  *::after, *::before {
+    box-sizing: inherit;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+  .hero-section h1 {
+      font-size: 2rem;
+      /* 他のスタイルを追加 */
+    }
+  }
+  header {
+  background-image:url('home.jpeg');
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+  }
+  h1{
+    font-size: 50px;
+    position: absolute;
+    top: 25%;
+    right: 40%;
+    color: #fff;
+  }
+  #mk{
+    text-align: center;
+  }
+  #iti{
+    position: absolute;
+    right: 80%;
+  }
+  #sak{
+    position: absolute;
+    right: 45%;
+    height: 100px;
+  }
+  .about{
+    width:500px;
+    height:250px;
+    border-radius:40px;
+    margin:0 auto;
+    background-color: cyan;
+    margin-top: 100px;
+  }
+  #ni{
+    position: absolute;
+    right: 80%;
+    padding-top: 50%;
+  }
+  #san{
+    position: absolute;
+    right: 80%;
+    padding-top: 100%;
+  }
+  #siyou{
+    padding-top: 50%;
+    position: absolute;
+    right: 40%;
+    height: 100px;
+  }
+  #ko{
+    position: absolute;
+    padding-top: 105%;
+    right: 40%;
+  }
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2rem;
+  }
+  
+  section h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .project {
+    margin-bottom: 1rem;
+  }
+  .video-bg {
+    position: absolute;
+    z-index: -1;
+    top: 1215px;
+    left: 310px;
+    overflow: hidden;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  #maya{
+    position: absolute;
+    right: 62%;
+    padding-top: 12%;
+  }
+  
+  #ill{
+    position: absolute;
+    right: 25%;
+    padding-top: 12%;
+  }
+  #maka{
+    position: absolute;
+    right: 54%;
+    padding-top: 20%;
+  }
+  #ills{
+    position: absolute;
+    right: 9%;
+    padding-top: 20%;
+  }
+  
